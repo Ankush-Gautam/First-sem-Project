@@ -1,0 +1,27 @@
+	
+
+	DEVELOPED BY :
+	------------  
+	Ankush Gautam
+	Kabir Bhattarai
+	Kiran Sharma
+
+	This is a project work made in C language.  This project would not have been possible without the help 
+	of Bhawesh sir. STUDENT RECORD MANAGER as the name suggests records and store name, marks of 
+	students and calculate GPA and even generates a grade-sheet of a student. This Application main objective
+	is to provide a simple interface to overview records of students.
+
+	>> FEATURES	
+
+	1.  Login Page 
+	2.  Menu Driven
+	3.  User Friendly & Colorful
+	4.  Detects if user doesn't input alphabetical value in Name
+	5.  Detects if user input same Rollno or Name already existing in the file
+	6.  Calculate GPA and even display equivalent grade ( 4.0 = A+, 3.6 = A etc)
+	7.  Count number of records in the file
+	8.  Add, Display, Edit, Delete or Search any record in the file
+	9.  Sort records by student Rollnumber  or Name or GPA or just with a SerialNo.
+	10. Generates a GRADE-SHEET of any recorded students
+	11. If user input Marks greater than 100 or lesser than 0, it detects and ask again
+	12. Program doesn't exits unless user wants
